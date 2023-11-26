@@ -1,7 +1,7 @@
 {
   "name": "use-sluggish-state",
   "version": "0.0.0-development",
-  "description": "A usestate-like react hook for interacting with the browser Local Storage API",
+  "description": "A react hook for setting state after a specific delay, built with typescript in mind.",
   "main": "./lib/index.js",
   "files": [
     "lib/**/*"
